@@ -1,7 +1,6 @@
 # EEG signal classification using PCA, ICA, LDA and support vector machines
  BM4152 - Biosignal Processing  Paper Implementation
 
-# EEG Signal Classification Using PCA, ICA, LDA, and SVM
 
 This repository contains the code and resources for reproducing results from the paper titled **"EEG signal classification using PCA, ICA, LDA and support vector machines"** by Abdulhamit Subasi and M. Ismail Gursoy. This project applies various signal processing and classification techniques to EEG data for epileptic seizure detection.
 
