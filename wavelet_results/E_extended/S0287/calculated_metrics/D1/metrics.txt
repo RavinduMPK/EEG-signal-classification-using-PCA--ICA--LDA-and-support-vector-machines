@@ -1,0 +1,5 @@
+Label: 0
+MAV: 8.229266556934713
+Average Power: 130.0829578147543
+Standard Deviation: 11.405391555389285
+MAV Ratio: nan
